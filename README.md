@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nuralh777@gmail.com**
 
-- ⚡ Fun fact **I am big football fan and my favorite team is Manchester United!**
+- ⚡ Fun fact **I am big football fan and I love being active in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
