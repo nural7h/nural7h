@@ -24,5 +24,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nural7h&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nural7h&theme=dracula&hide=python,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nural7h&theme=dracula)
 
