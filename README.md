@@ -3,7 +3,7 @@
 
 - 🔭 My latest project is [PC Planet](https://youtu.be/VKWVDOkdPik)
 
-- 🔭 My website is [PC Planet](https://youtu.be/VKWVDOkdPik)
+- 🔭 My website is [Nural Hasan](https://www.nuralhasan.com/)
 
 - 🌱 I’m currently learning **React, JavaScript and C.**
 
