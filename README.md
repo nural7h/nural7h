@@ -3,11 +3,11 @@
 
 - 🔭 My latest project is [PC Planet](https://github.com/Sep3NRD/Sep3_WebApi_Blazor.git)
 
-- 🌱 I’m currently learning **React, JavaScript and C**
+- 🌱 I’m currently learning **React, JavaScript and C.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nural7h](https://github.com/nural7h)
 
-- 📫 How to reach me **nuralh777@gmail.com**
+- 📫 How to reach me **nuralh777@gmail.com.**
 
 - ⚡ Fun fact **I am big football fan and I love being active in my free time!**
 
