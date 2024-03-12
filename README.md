@@ -3,6 +3,8 @@
 
 - 🔭 My latest project is [PC Planet](https://youtu.be/VKWVDOkdPik)
 
+- 🔭 My website is [PC Planet](https://youtu.be/VKWVDOkdPik)
+
 - 🌱 I’m currently learning **React, JavaScript and C.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nural7h](https://github.com/nural7h)
