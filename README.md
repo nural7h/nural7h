@@ -3,7 +3,7 @@
 
 - 🔭 My latest project is [PC Planet](https://github.com/Sep3NRD/Sep3_WebApi_Blazor.git)
 
-- 🌱 I’m currently learning **React, TypeScript and C**
+- 🌱 I’m currently learning **React, JavaScript and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nural7h](https://github.com/nural7h)
 
