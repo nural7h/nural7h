@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nural</h1>
-<h3 align="center">A 21-year-old Software Engineering student in Denmark, passionate about building full-stack web applications and solving problems through code.</h3>
+<h3 align="center">A 21-year-old Software Engineering student in Denmark, passionate about building software, working with data, machine learnings and solving problems through code.</h3>
 
 - 🔭 My latest project is a Mushroom Classification model using Python and Jupyter Notebook, where I applied data preprocessing, logistic regression, and model evaluation techniques.
 
