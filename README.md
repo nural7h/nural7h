@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nural</h1>
-<h3 align="center">A 20 years old software engineering student in Denmark, looking to apply my knowledge in real projects. I aspire of becoming a Full Stack Developer and working for each day to be better than the previous one.</h3>
+<h3 align="center">A 21 years old software engineering student in Denmark, looking to apply my knowledge in real projects. I aspire of becoming a Full Stack Developer and working for each day to be better than the previous one.</h3>
 
 - 🔭 My latest project is [PC Planet](https://youtu.be/VKWVDOkdPik)
 
