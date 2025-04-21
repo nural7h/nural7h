@@ -5,7 +5,7 @@
 
 - 🌐 Visit my portfolio: [nuralhasan.com](https://www.nuralhasan.com/)
 
-- 📚 I'm currently learning **React**, **JavaScript**, and **C**.
+- 📚 I'm currently learning **Python** and **Power BI**.
 
 - 🧠 I actively work with **Python and Jupyter Notebooks** on data science and machine learning assignments. These projects involve:
   - Preprocessing real-world datasets (e.g. Airbnb listings, EV car data, political surveys, and mushroom classification)
