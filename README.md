@@ -3,7 +3,7 @@
 
 - 🔭 My latest project is an analysis of the Candidate Test 2022 using Python and Jupyter Notebook, where I applied clustering algorithms (K-Means, DBSCAN, Hierarchical), PCA, and data visualization to explore political alignment and party cohesion among Danish parliamentary candidates.
 
-- 🌐 Visit my portfolio: [nuralhasan.com](https://www.nuralhasan.com/)
+- 🌐 Visit my portfolio I build in my free time over a year ago: ([https://www.nuralhasan.com/](https://nural7h.github.io/Portfolio/))
 
 - 📚 I'm currently learning **Python** and **Power BI**.
 
