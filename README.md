@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nural</h1>
 <h3 align="center">A 21-year-old Software Engineering student in Denmark, passionate about building software, working with data, machine learning and solving problems through code.</h3>
 
-- 🔭 My latest project is a Mushroom Classification model using Python and Jupyter Notebook, where I applied data preprocessing, logistic regression, and model evaluation techniques.
+- 🔭 My latest project is an analysis of the Candidate Test 2022 using Python and Jupyter Notebook, where I applied clustering algorithms (K-Means, DBSCAN, Hierarchical), PCA, and data visualization to explore political alignment and party cohesion among Danish parliamentary candidates.
 
 - 🌐 Visit my portfolio: [nuralhasan.com](https://www.nuralhasan.com/)
 
